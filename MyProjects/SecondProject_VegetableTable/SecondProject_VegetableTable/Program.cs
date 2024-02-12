@@ -4,6 +4,8 @@ Console.OutputEncoding = System.Text.Encoding.UTF8;
 
 uint choiсe = 0;
 
+string SourceConnection = @"DESKTOP-UIJQEL8\SQLEXPRESS";
+
 
 void PrintList()
 {
@@ -48,53 +50,53 @@ while (true)
     switch (choiсe)
     {
         case 1:
-            DatabaseQuery("SELECT * FROM FruitsAndVegetables");
+            DatabaseQuery(SourceConnection, "SELECT * FROM FruitsAndVegetables");
             break;
         case 2:
-            DatabaseQuery("SELECT DISTINCT NameOfObject FROM FruitsAndVegetables");
+            DatabaseQuery(SourceConnection, "SELECT DISTINCT NameOfObject FROM FruitsAndVegetables");
             break;
         case 3:
-            DatabaseQuery("SELECT DISTINCT Color FROM FruitsAndVegetables");
+            DatabaseQuery(SourceConnection, "SELECT DISTINCT Color FROM FruitsAndVegetables");
             break;
         case 4:
-            DatabaseQuery("SELECT MAX(CalorieСontent) AS MaxCalorieСontent FROM FruitsAndVegetables");
+            DatabaseQuery(SourceConnection, "SELECT MAX(CalorieСontent) AS Максимальная_калорийность FROM FruitsAndVegetables");
             break;
         case 5:
-            DatabaseQuery("SELECT MIN(CalorieСontent) AS MinCalorieСontent FROM FruitsAndVegetables");
+            DatabaseQuery(SourceConnection, "SELECT MIN(CalorieСontent) AS Минимальная_калорийность FROM FruitsAndVegetables");
             break;
         case 6:
-            DatabaseQuery("SELECT AVG(CalorieСontent) AS AvrCalorieСontent FROM FruitsAndVegetables");
+            DatabaseQuery(SourceConnection, "SELECT AVG(CalorieСontent) AS Средняя_калорийность FROM FruitsAndVegetables");
             break;
         case 7:
-            DatabaseQuery("SELECT COUNT(*) AS AmountOfVegetables FROM FruitsAndVegetables WHERE TypeOfObject = 'vegetable'");
+            DatabaseQuery(SourceConnection, "SELECT COUNT(*) AS Количество_овощей FROM FruitsAndVegetables WHERE TypeOfObject = 'овощ'");
             break;
         case 8:
-            DatabaseQuery("SELECT COUNT(*) AS AmountOfFruits FROM FruitsAndVegetables WHERE TypeOfObject = 'fruit'");
+            DatabaseQuery(SourceConnection, "SELECT COUNT(*) AS Количество_фруктов FROM FruitsAndVegetables WHERE TypeOfObject = 'фрукт'");
             break;
         case 9:
-            DatabaseQuery("SELECT Color, COUNT(*) AS Количество FROM FruitsAndVegetables WHERE Color = 'yellow' GROUP BY Color");
+            DatabaseQuery(SourceConnection, "SELECT Color, COUNT(*) AS Количество FROM FruitsAndVegetables WHERE Color = 'желтый' GROUP BY Color");
             break;
         case 10:
-            DatabaseQuery("SELECT Color, COUNT(*) AS Количество FROM FruitsAndVegetables GROUP BY Color");
+            DatabaseQuery(SourceConnection, "SELECT Color, COUNT(*) AS Количество FROM FruitsAndVegetables GROUP BY Color");
             break;
         case 11:
-            DatabaseQuery("SELECT * FROM FruitsAndVegetables WHERE CalorieСontent < 50");
+            DatabaseQuery(SourceConnection, "SELECT * FROM FruitsAndVegetables WHERE CalorieСontent < 50");
             break;
         case 12:
-            DatabaseQuery("SELECT * FROM FruitsAndVegetables WHERE CalorieСontent > 100");
+            DatabaseQuery(SourceConnection, "SELECT * FROM FruitsAndVegetables WHERE CalorieСontent > 100");
             break;
         case 13:
-            DatabaseQuery("SELECT * FROM FruitsAndVegetables WHERE CalorieСontent BETWEEN 50 AND 100");
+            DatabaseQuery(SourceConnection, "SELECT * FROM FruitsAndVegetables WHERE CalorieСontent BETWEEN 50 AND 100");
             break;
         case 14:
-            DatabaseQuery("SELECT * FROM FruitsAndVegetables WHERE Color IN ('yellow', 'red')");
+            DatabaseQuery(SourceConnection, "SELECT * FROM FruitsAndVegetables WHERE Color IN ('желтый', 'красный')");
             break;
     }
 }
 
-void DatabaseQuery(string str)
+void DatabaseQuery(string SourceConnection, string str)
 {
-    SqlConnection connect = new SqlConnection(@"Initial Catalog=MyFruitsAndVegetables;Data Source=DESKTOP-UIJQEL8\SQLEXPRESS;Integrated Security=SSPI");
+    SqlConnection connect = new SqlConnection($"Initial Catalog=MyFruitsAndVegetables;Data Source={SourceConnection};Integrated Security=SSPI");
     SqlCommand command = new SqlCommand();
     try
     {
@@ -129,6 +131,8 @@ void DatabaseQuery(string str)
     }
     catch (Exception ex)
     {
+
+        Console.Clear();
         Console.WriteLine(ex.Message);
     }
     finally

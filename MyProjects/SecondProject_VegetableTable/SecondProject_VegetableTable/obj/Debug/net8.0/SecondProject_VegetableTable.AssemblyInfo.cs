@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecondProject_VegetableTable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f29310bfc679b289e8e4a56c5d9125b7fe521a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff13dbde97044e489783cb768140d0f9449008ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("SecondProject_VegetableTable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SecondProject_VegetableTable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
