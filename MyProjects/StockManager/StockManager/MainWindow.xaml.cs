@@ -16,9 +16,22 @@ namespace StockManager
     /// </summary>
     public partial class MainWindow : Window
     {
+        Model model = new Model(@"DESKTOP-UIJQEL8\SQLEXPRESS", "Stock");
         public MainWindow()
         {
             InitializeComponent();
+            model.GetProducts();
+            model.GetSuppliers();
+            foreach (var item in model.suppliers)
+            {
+                Console.WriteLine(item + "\n");
+            }
+
+            Console.WriteLine("--------------------");
+            foreach (var item in model.products)
+            {
+                Console.WriteLine(item + "\n");
+            }
         }
     }
 }
