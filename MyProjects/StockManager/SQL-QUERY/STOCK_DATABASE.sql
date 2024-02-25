@@ -3,23 +3,48 @@ go
 
 USE Stock
 
-CREATE TABLE Suppliers (
-    ID INT PRIMARY KEY IDENTITY,
-    SupplierName NVARCHAR(100) NOT NULL,
-    SupplierAddress NVARCHAR(255),
-    SupplierPhone NVARCHAR(20)
-);
-
-
 CREATE TABLE Products (
-    ID INT PRIMARY KEY IDENTITY,
-    ProductName NVARCHAR(100) NOT NULL,
-    ProductType NVARCHAR(50),
-    SupplierID INT FOREIGN KEY REFERENCES Suppliers(ID),
+    ProductID INT PRIMARY KEY,
+    Name NVARCHAR(100),
+    Type NVARCHAR(50),
     Quantity INT,
-    Cost DECIMAL(10, 2),
-    DeliveryDate DATE
+    CostPrice DECIMAL(10, 2)
 );
+
+
+CREATE TABLE Managers (
+    ManagerID INT PRIMARY KEY,
+    Name NVARCHAR(100)
+);
+
+CREATE TABLE Customers (
+    CustomerID INT PRIMARY KEY,
+    Name NVARCHAR(100)
+);
+
+
+CREATE TABLE Sales (
+    SaleID INT PRIMARY KEY,
+    ProductID INT,
+    ManagerID INT,
+    CustomerID INT,
+    Quantity INT,
+    UnitPrice DECIMAL(10, 2),
+    SaleDate DATE,
+    FOREIGN KEY (ProductID) REFERENCES Products(ProductID),
+    FOREIGN KEY (ManagerID) REFERENCES Managers(ManagerID),
+    FOREIGN KEY (CustomerID) REFERENCES Customers(CustomerID)
+);
+
+
+CREATE TABLE SalesManagers (
+    SaleID INT,
+    ManagerID INT,
+    PRIMARY KEY (SaleID, ManagerID),
+    FOREIGN KEY (SaleID) REFERENCES Sales(SaleID),
+    FOREIGN KEY (ManagerID) REFERENCES Managers(ManagerID)
+);
+
 
 USE Stock
 go
