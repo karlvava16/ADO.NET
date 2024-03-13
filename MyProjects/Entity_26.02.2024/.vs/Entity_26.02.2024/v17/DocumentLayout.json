@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\ADO.NET\\MyProjects\\Entity_26.02.2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67199A28-B2B6-49F5-815D-DE5BE0206045}|Entity_26.02.2024\\Entity_26.02.2024.csproj|c:\\projects\\ado.net\\myprojects\\entity_26.02.2024\\entity_26.02.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67199A28-B2B6-49F5-815D-DE5BE0206045}|Entity_26.02.2024\\Entity_26.02.2024.csproj|solutionrelative:entity_26.02.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67199A28-B2B6-49F5-815D-DE5BE0206045}|Entity_26.02.2024\\Entity_26.02.2024.csproj|C:\\Projects\\ADO.NET\\MyProjects\\Entity_26.02.2024\\entity_26.02.2024\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67199A28-B2B6-49F5-815D-DE5BE0206045}|Entity_26.02.2024\\Entity_26.02.2024.csproj|solutionrelative:entity_26.02.2024\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67199A28-B2B6-49F5-815D-DE5BE0206045}|Entity_26.02.2024\\Entity_26.02.2024.csproj|C:\\Projects\\ADO.NET\\MyProjects\\Entity_26.02.2024\\entity_26.02.2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67199A28-B2B6-49F5-815D-DE5BE0206045}|Entity_26.02.2024\\Entity_26.02.2024.csproj|solutionrelative:entity_26.02.2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\ADO.NET\\MyProjects\\Entity_26.02.2024\\Entity_26.02.2024\\Program.cs",
+              "RelativeDocumentMoniker": "Entity_26.02.2024\\Program.cs",
+              "ToolTip": "C:\\Projects\\ADO.NET\\MyProjects\\Entity_26.02.2024\\Entity_26.02.2024\\Program.cs",
+              "RelativeToolTip": "Entity_26.02.2024\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwDkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T13:58:30.395Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\ADO.NET\\MyProjects\\Entity_26.02.2024\\Entity_26.02.2024\\appsettings.json",
+              "RelativeDocumentMoniker": "Entity_26.02.2024\\appsettings.json",
+              "ToolTip": "C:\\Projects\\ADO.NET\\MyProjects\\Entity_26.02.2024\\Entity_26.02.2024\\appsettings.json",
+              "RelativeToolTip": "Entity_26.02.2024\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-11T20:34:57.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Projects\\ADO.NET\\MyProjects\\Entity_26.02.2024\\Entity_26.02.2024\\Country.cs",
+              "RelativeDocumentMoniker": "Entity_26.02.2024\\Country.cs",
+              "ToolTip": "C:\\Projects\\ADO.NET\\MyProjects\\Entity_26.02.2024\\Entity_26.02.2024\\Country.cs",
+              "RelativeToolTip": "Entity_26.02.2024\\Country.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwDoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T07:04:57.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
