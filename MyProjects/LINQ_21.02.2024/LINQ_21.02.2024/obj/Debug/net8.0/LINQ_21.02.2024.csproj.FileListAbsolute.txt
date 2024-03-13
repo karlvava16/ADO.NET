@@ -1,0 +1,15 @@
+C:\Projects\ADO.NET\MyProjects\LINQ_21.02.2024\LINQ_21.02.2024\bin\Debug\net8.0\LINQ_21.02.2024.exe
+C:\Projects\ADO.NET\MyProjects\LINQ_21.02.2024\LINQ_21.02.2024\bin\Debug\net8.0\LINQ_21.02.2024.deps.json
+C:\Projects\ADO.NET\MyProjects\LINQ_21.02.2024\LINQ_21.02.2024\bin\Debug\net8.0\LINQ_21.02.2024.runtimeconfig.json
+C:\Projects\ADO.NET\MyProjects\LINQ_21.02.2024\LINQ_21.02.2024\bin\Debug\net8.0\LINQ_21.02.2024.dll
+C:\Projects\ADO.NET\MyProjects\LINQ_21.02.2024\LINQ_21.02.2024\bin\Debug\net8.0\LINQ_21.02.2024.pdb
+C:\Projects\ADO.NET\MyProjects\LINQ_21.02.2024\LINQ_21.02.2024\obj\Debug\net8.0\LINQ_21.02.2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ADO.NET\MyProjects\LINQ_21.02.2024\LINQ_21.02.2024\obj\Debug\net8.0\LINQ_21.02.2024.AssemblyInfoInputs.cache
+C:\Projects\ADO.NET\MyProjects\LINQ_21.02.2024\LINQ_21.02.2024\obj\Debug\net8.0\LINQ_21.02.2024.AssemblyInfo.cs
+C:\Projects\ADO.NET\MyProjects\LINQ_21.02.2024\LINQ_21.02.2024\obj\Debug\net8.0\LINQ_21.02.2024.csproj.CoreCompileInputs.cache
+C:\Projects\ADO.NET\MyProjects\LINQ_21.02.2024\LINQ_21.02.2024\obj\Debug\net8.0\LINQ_21.02.2024.sourcelink.json
+C:\Projects\ADO.NET\MyProjects\LINQ_21.02.2024\LINQ_21.02.2024\obj\Debug\net8.0\LINQ_21.02.2024.dll
+C:\Projects\ADO.NET\MyProjects\LINQ_21.02.2024\LINQ_21.02.2024\obj\Debug\net8.0\refint\LINQ_21.02.2024.dll
+C:\Projects\ADO.NET\MyProjects\LINQ_21.02.2024\LINQ_21.02.2024\obj\Debug\net8.0\LINQ_21.02.2024.pdb
+C:\Projects\ADO.NET\MyProjects\LINQ_21.02.2024\LINQ_21.02.2024\obj\Debug\net8.0\LINQ_21.02.2024.genruntimeconfig.cache
+C:\Projects\ADO.NET\MyProjects\LINQ_21.02.2024\LINQ_21.02.2024\obj\Debug\net8.0\ref\LINQ_21.02.2024.dll
