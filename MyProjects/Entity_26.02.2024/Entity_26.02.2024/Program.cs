@@ -121,7 +121,7 @@ static void DisplayCountriesWithNameContainsLetters(CountryContext db, params ch
 {
     Console.WriteLine($"Countries that contains '{string.Join("', '", characters)}' :");
 
-    var Countries = db.Countries.AsEnumerable().Where(c => characters.All(ch => c.Name.Contains(ch))).Select(c => c.Name);
+    var Countries = db.Countries.AsEnumerable().Where(c => characters.All(ch => c.Name.Contains(ch, StringComparison.InvariantCultureIgnoreCase))).Select(c => c.Name);
     foreach (var countryName in Countries)
     {
         Console.WriteLine(countryName);
@@ -136,7 +136,7 @@ static void DisplayCountriesWithNameStartsWith(CountryContext db, char a)
 {
     Console.WriteLine($"Countries that starts with letter '{a}' :");
 
-    var Countries = db.Countries.AsEnumerable().Where(c => c.Name.StartsWith(a)).Select(c => c.Name);
+    var Countries = db.Countries.AsEnumerable().Where(c => c.Name.StartsWith(a.ToString(), StringComparison.InvariantCultureIgnoreCase)).Select(c => c.Name);
 
     foreach (var countryName in Countries)
     {
