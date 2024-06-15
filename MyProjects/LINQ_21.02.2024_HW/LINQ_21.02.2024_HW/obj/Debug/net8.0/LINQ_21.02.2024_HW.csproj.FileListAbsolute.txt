@@ -1,0 +1,15 @@
+C:\Step\ADO.NET\MyProjects\LINQ_21.02.2024_HW\LINQ_21.02.2024_HW\bin\Debug\net8.0\LINQ_21.02.2024_HW.exe
+C:\Step\ADO.NET\MyProjects\LINQ_21.02.2024_HW\LINQ_21.02.2024_HW\bin\Debug\net8.0\LINQ_21.02.2024_HW.deps.json
+C:\Step\ADO.NET\MyProjects\LINQ_21.02.2024_HW\LINQ_21.02.2024_HW\bin\Debug\net8.0\LINQ_21.02.2024_HW.runtimeconfig.json
+C:\Step\ADO.NET\MyProjects\LINQ_21.02.2024_HW\LINQ_21.02.2024_HW\bin\Debug\net8.0\LINQ_21.02.2024_HW.dll
+C:\Step\ADO.NET\MyProjects\LINQ_21.02.2024_HW\LINQ_21.02.2024_HW\bin\Debug\net8.0\LINQ_21.02.2024_HW.pdb
+C:\Step\ADO.NET\MyProjects\LINQ_21.02.2024_HW\LINQ_21.02.2024_HW\obj\Debug\net8.0\LINQ_21.02.2024_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Step\ADO.NET\MyProjects\LINQ_21.02.2024_HW\LINQ_21.02.2024_HW\obj\Debug\net8.0\LINQ_21.02.2024_HW.AssemblyInfoInputs.cache
+C:\Step\ADO.NET\MyProjects\LINQ_21.02.2024_HW\LINQ_21.02.2024_HW\obj\Debug\net8.0\LINQ_21.02.2024_HW.AssemblyInfo.cs
+C:\Step\ADO.NET\MyProjects\LINQ_21.02.2024_HW\LINQ_21.02.2024_HW\obj\Debug\net8.0\LINQ_21.02.2024_HW.csproj.CoreCompileInputs.cache
+C:\Step\ADO.NET\MyProjects\LINQ_21.02.2024_HW\LINQ_21.02.2024_HW\obj\Debug\net8.0\LINQ_21.02.2024_HW.sourcelink.json
+C:\Step\ADO.NET\MyProjects\LINQ_21.02.2024_HW\LINQ_21.02.2024_HW\obj\Debug\net8.0\LINQ_21.02.2024_HW.dll
+C:\Step\ADO.NET\MyProjects\LINQ_21.02.2024_HW\LINQ_21.02.2024_HW\obj\Debug\net8.0\refint\LINQ_21.02.2024_HW.dll
+C:\Step\ADO.NET\MyProjects\LINQ_21.02.2024_HW\LINQ_21.02.2024_HW\obj\Debug\net8.0\LINQ_21.02.2024_HW.pdb
+C:\Step\ADO.NET\MyProjects\LINQ_21.02.2024_HW\LINQ_21.02.2024_HW\obj\Debug\net8.0\LINQ_21.02.2024_HW.genruntimeconfig.cache
+C:\Step\ADO.NET\MyProjects\LINQ_21.02.2024_HW\LINQ_21.02.2024_HW\obj\Debug\net8.0\ref\LINQ_21.02.2024_HW.dll

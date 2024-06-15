@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Step\\ADO.NET\\MyProjects\\LINQ_21.02.2024_HW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{539061BA-A25C-449E-8C58-5239E93B758C}|LINQ_21.02.2024_HW\\LINQ_21.02.2024_HW.csproj|c:\\step\\ado.net\\myprojects\\linq_21.02.2024_hw\\linq_21.02.2024_hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539061BA-A25C-449E-8C58-5239E93B758C}|LINQ_21.02.2024_HW\\LINQ_21.02.2024_HW.csproj|solutionrelative:linq_21.02.2024_hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Step\\ADO.NET\\MyProjects\\LINQ_21.02.2024_HW\\LINQ_21.02.2024_HW\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ_21.02.2024_HW\\Program.cs",
+              "ToolTip": "C:\\Step\\ADO.NET\\MyProjects\\LINQ_21.02.2024_HW\\LINQ_21.02.2024_HW\\Program.cs",
+              "RelativeToolTip": "LINQ_21.02.2024_HW\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T21:23:00.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
