@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vlady\\Downloads\\05_Stock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|c:\\users\\vlady\\downloads\\05_stock\\05_stock\\windowview\\vm_addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|solutionrelative:05_stock\\windowview\\vm_addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|c:\\users\\vlady\\downloads\\05_stock\\05_stock\\vm_mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|solutionrelative:05_stock\\vm_mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|c:\\users\\vlady\\downloads\\05_stock\\05_stock\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|solutionrelative:05_stock\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|c:\\users\\vlady\\downloads\\05_stock\\05_stock\\interfaceimp\\databasecruddefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|solutionrelative:05_stock\\interfaceimp\\databasecruddefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|c:\\users\\vlady\\downloads\\05_stock\\05_stock\\windowview\\addproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|solutionrelative:05_stock\\windowview\\addproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|c:\\users\\vlady\\downloads\\05_stock\\05_stock\\windowview\\addproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|solutionrelative:05_stock\\windowview\\addproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|c:\\users\\vlady\\downloads\\05_stock\\05_stock\\windowview\\addtype.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|solutionrelative:05_stock\\windowview\\addtype.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|c:\\users\\vlady\\downloads\\05_stock\\05_stock\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|solutionrelative:05_stock\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|c:\\users\\vlady\\downloads\\05_stock\\05_stock\\windowview\\vm_addtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|solutionrelative:05_stock\\windowview\\vm_addtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|c:\\users\\vlady\\downloads\\05_stock\\05_stock\\datatemplete\\celleditingtemplateselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|solutionrelative:05_stock\\datatemplete\\celleditingtemplateselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|c:\\users\\vlady\\downloads\\05_stock\\05_stock\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|solutionrelative:05_stock\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|c:\\users\\vlady\\downloads\\05_stock\\05_stock\\windowview\\addtype.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|solutionrelative:05_stock\\windowview\\addtype.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|c:\\users\\vlady\\downloads\\05_stock\\05_stock\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|solutionrelative:05_stock\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vlady\\Downloads\\ADO_NET-main\\ADO_NET-main\\05_Stock\\05_Stock\\InterfaceImp\\DataBaseCrudDefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|c:\\users\\vlady\\downloads\\05_stock\\05_stock\\interface\\idatabasecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|solutionrelative:05_stock\\interface\\idatabasecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|c:\\users\\vlady\\downloads\\05_stock\\05_stock\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|solutionrelative:05_stock\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|c:\\users\\vlady\\downloads\\05_stock\\05_stock\\stock_12.02.2024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1881200D-D40D-4F8C-A160-B912B973301F}|05_Stock\\Stock_12.02.2024.csproj|solutionrelative:05_stock\\stock_12.02.2024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VM_MainWindow.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\VM_MainWindow.cs",
+              "RelativeDocumentMoniker": "05_Stock\\VM_MainWindow.cs",
+              "ToolTip": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\VM_MainWindow.cs",
+              "RelativeToolTip": "05_Stock\\VM_MainWindow.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwDIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:00:31.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddType.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\WindowView\\AddType.xaml.cs",
+              "RelativeDocumentMoniker": "05_Stock\\WindowView\\AddType.xaml.cs",
+              "ToolTip": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\WindowView\\AddType.xaml.cs",
+              "RelativeToolTip": "05_Stock\\WindowView\\AddType.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:15:00.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddProduct.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\WindowView\\AddProduct.xaml.cs",
+              "RelativeDocumentMoniker": "05_Stock\\WindowView\\AddProduct.xaml.cs",
+              "ToolTip": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\WindowView\\AddProduct.xaml.cs",
+              "RelativeToolTip": "05_Stock\\WindowView\\AddProduct.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAD4vyQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:14:50.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VM_AddProduct.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\WindowView\\VM_AddProduct.cs",
+              "RelativeDocumentMoniker": "05_Stock\\WindowView\\VM_AddProduct.cs",
+              "ToolTip": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\WindowView\\VM_AddProduct.cs",
+              "RelativeToolTip": "05_Stock\\WindowView\\VM_AddProduct.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:22:56.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataBaseCrudDefault.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\InterfaceImp\\DataBaseCrudDefault.cs",
+              "RelativeDocumentMoniker": "05_Stock\\InterfaceImp\\DataBaseCrudDefault.cs",
+              "ToolTip": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\InterfaceImp\\DataBaseCrudDefault.cs",
+              "RelativeToolTip": "05_Stock\\InterfaceImp\\DataBaseCrudDefault.cs",
+              "ViewState": "AQIAAPIAAAAAAAAAAAA9wAMBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:08:16.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CellEditingTemplateSelector.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\DataTemplete\\CellEditingTemplateSelector.cs",
+              "RelativeDocumentMoniker": "05_Stock\\DataTemplete\\CellEditingTemplateSelector.cs",
+              "ToolTip": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\DataTemplete\\CellEditingTemplateSelector.cs",
+              "RelativeToolTip": "05_Stock\\DataTemplete\\CellEditingTemplateSelector.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:53:02.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "05_Stock\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\MainWindow.xaml",
+              "RelativeToolTip": "05_Stock\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T11:52:00.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddProduct.xaml",
+              "DocumentMoniker": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\WindowView\\AddProduct.xaml",
+              "RelativeDocumentMoniker": "05_Stock\\WindowView\\AddProduct.xaml",
+              "ToolTip": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\WindowView\\AddProduct.xaml",
+              "RelativeToolTip": "05_Stock\\WindowView\\AddProduct.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T12:55:48.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "05_Stock\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\MainWindow.xaml.cs",
+              "RelativeToolTip": "05_Stock\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwE0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:03:44.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "05_Stock\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\AssemblyInfo.cs",
+              "RelativeToolTip": "05_Stock\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:52:41.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VM_AddType.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\WindowView\\VM_AddType.cs",
+              "RelativeDocumentMoniker": "05_Stock\\WindowView\\VM_AddType.cs",
+              "ToolTip": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\WindowView\\VM_AddType.cs",
+              "RelativeToolTip": "05_Stock\\WindowView\\VM_AddType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:00:21.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddType.xaml",
+              "DocumentMoniker": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\WindowView\\AddType.xaml",
+              "RelativeDocumentMoniker": "05_Stock\\WindowView\\AddType.xaml",
+              "ToolTip": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\WindowView\\AddType.xaml",
+              "RelativeToolTip": "05_Stock\\WindowView\\AddType.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T12:56:12.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\appsettings.json",
+              "RelativeDocumentMoniker": "05_Stock\\appsettings.json",
+              "ToolTip": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\appsettings.json",
+              "RelativeToolTip": "05_Stock\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T09:10:44.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataBaseCrudDefault.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\Downloads\\ADO_NET-main\\ADO_NET-main\\05_Stock\\05_Stock\\InterfaceImp\\DataBaseCrudDefault.cs",
+              "RelativeDocumentMoniker": "..\\ADO_NET-main\\ADO_NET-main\\05_Stock\\05_Stock\\InterfaceImp\\DataBaseCrudDefault.cs",
+              "ToolTip": "C:\\Users\\vlady\\Downloads\\ADO_NET-main\\ADO_NET-main\\05_Stock\\05_Stock\\InterfaceImp\\DataBaseCrudDefault.cs",
+              "RelativeToolTip": "..\\ADO_NET-main\\ADO_NET-main\\05_Stock\\05_Stock\\InterfaceImp\\DataBaseCrudDefault.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwFMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:55:03.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDataBaseCrud.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\Interface\\IDataBaseCrud.cs",
+              "RelativeDocumentMoniker": "05_Stock\\Interface\\IDataBaseCrud.cs",
+              "ToolTip": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\Interface\\IDataBaseCrud.cs",
+              "RelativeToolTip": "05_Stock\\Interface\\IDataBaseCrud.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:51:58.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\App.xaml",
+              "RelativeDocumentMoniker": "05_Stock\\App.xaml",
+              "ToolTip": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\App.xaml",
+              "RelativeToolTip": "05_Stock\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T17:33:26.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Stock_12.02.2024.csproj",
+              "DocumentMoniker": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\Stock_12.02.2024.csproj",
+              "RelativeDocumentMoniker": "05_Stock\\Stock_12.02.2024.csproj",
+              "ToolTip": "C:\\Users\\vlady\\Downloads\\05_Stock\\05_Stock\\Stock_12.02.2024.csproj",
+              "RelativeToolTip": "05_Stock\\Stock_12.02.2024.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-14T17:33:56.969Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
