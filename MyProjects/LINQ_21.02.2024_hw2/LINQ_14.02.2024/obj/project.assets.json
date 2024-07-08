@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Step\\ADO.NET\\MyProjects\\LINQ_14.02.2024\\LINQ_14.02.2024\\LINQ_14.02.2024.csproj",
+      "projectUniqueName": "C:\\Step\\ADO.NET\\MyProjects\\LINQ_21.02.2024_hw2\\LINQ_14.02.2024\\LINQ_14.02.2024.csproj",
       "projectName": "LINQ_14.02.2024",
-      "projectPath": "C:\\Step\\ADO.NET\\MyProjects\\LINQ_14.02.2024\\LINQ_14.02.2024\\LINQ_14.02.2024.csproj",
+      "projectPath": "C:\\Step\\ADO.NET\\MyProjects\\LINQ_21.02.2024_hw2\\LINQ_14.02.2024\\LINQ_14.02.2024.csproj",
       "packagesPath": "C:\\Users\\vlady\\.nuget\\packages\\",
-      "outputPath": "C:\\Step\\ADO.NET\\MyProjects\\LINQ_14.02.2024\\LINQ_14.02.2024\\obj\\",
+      "outputPath": "C:\\Step\\ADO.NET\\MyProjects\\LINQ_21.02.2024_hw2\\LINQ_14.02.2024\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
